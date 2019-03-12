@@ -1,4 +1,5 @@
 import wikipedia
+import string
 
 # Birder - run with: python Parker_Birder.py
 
@@ -24,7 +25,7 @@ def printdict(birds):
         print ("** "+ category +" **\n")
         for bird in sorted(birds[category]):
             info = ", ".join(birds[category][bird]) # join elements in list by ", "
-            print("%-30s\t%s" % (bird.title(), info)) # format line
+            print("%-30s\t%s" % (string.capwords(bird), info)) # format line
         print("")
 
 # right now all this does is returns just the summary of the wiki page
@@ -62,8 +63,8 @@ def main():
         print(getbirdinfo(bird, birds))
 
         user = raw_input("Do you want info on another bird? (y/n) ")
-        
-    print("Thank you for using Birdr. Goodbye!")
+
+    print("\nThank you for using Birdr. Goodbye!")
 
 if __name__=="__main__":
     main()
