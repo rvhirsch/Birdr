@@ -33,12 +33,23 @@ def getwikiinfo(birdname):
     page = wikipedia.page(birdname)
     return wikipedia.summary(page)
 
+def getwikisummary(birdname):
+    page = wikipedia.page(birdname)
+    summary = wikipedia.summary(page)
+    splits = summary.split("\n")
+    full = ""
+    for paragraph in splits:
+        sents = paragraph.split(".")
+        full += sents[0] + ". "
+    return full
+
 # searches for bird in list or tells user name is invalid
 def getbirdinfo(searchingbird, birds):
     searchingbird = searchingbird.strip().lower()
     for category in sorted(birds):
         if searchingbird in birds[category]:
-            return getwikiinfo(searchingbird)
+            # return getwikiinfo(searchingbird)
+            return getwikisummary(searchingbird)
     return "NOT A VALID BIRD NAME"
 
 def main():
@@ -46,11 +57,13 @@ def main():
     printdict(birds)
 
     user = raw_input("Do you want info on a bird? (y/n) ")
-    while (user[0].lower() != "n"):
+    while (user[0].lower() == "y"):
         bird = raw_input("Enter bird name: ")
         print(getbirdinfo(bird, birds))
 
         user = raw_input("Do you want info on another bird? (y/n) ")
+        
+    print("Thank you for using Birdr. Goodbye!")
 
 if __name__=="__main__":
     main()
