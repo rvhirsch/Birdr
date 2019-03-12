@@ -1,0 +1,97 @@
+Anseriformes
+Black-bellied Whistling-Duck, Dendrocygna autumnalis
+Fulvous Whistling-Duck, Dendrocygna bicolor
+Emperor Goose, Anser canagicus
+Snow Goose, Anser caerulescens
+Ross's Goose, Anser rossii
+Greater White-fronted Goose, Anser albifrons
+Tundra Bean-Goose, Anser serrirostris
+Brant Branta, bernicla
+Cackling Goose, Branta hutchinsii
+Canada Goose, Branta canadensis
+Trumpeter Swan, Cygnus buccinator
+Tundra Swan, Cygnus columbianus
+Whooper Swan, Cygnus cygnus
+Wood Duck, Aix sponsa
+Baikal Teal, Sibirionetta formosa
+Garganey, Spatula querquedula
+Blue-winged Teal, Spatula discors
+Cinnamon Teal, Spatula cyanoptera
+Northern Shoveler, Spatula clypeata
+Gadwall, Mareca strepera
+Falcated Duck, Mareca falcata
+Eurasian Wigeon, Mareca penelope
+American Wigeon, Mareca americana
+Mallard, Anas platyrhynchos
+American Black Duck, Anas rubripes
+Northern Pintail, Anas acuta
+Green-winged Teal, Anas crecca
+Canvasback, Aythya valisineria
+Redhead, Aythya americana
+Common Pochard, Aythya ferina
+Ring-necked Duck, Aythya collaris
+Tufted Duck, Aythya fuligula
+Greater Scaup, Aythya marila
+Lesser Scaup, Aythya affinis
+Steller's Eider, Polysticta stelleri
+King Eider, Somateria spectabilis
+Common Eider, Somateria mollissima
+Harlequin Duck, Histrionicus histrionicus
+Surf Scoter, Melanitta perspicillata
+White-winged Scoter, Melanitta fusca
+Common Scoter, Melanitta nigra
+Black Scoter, Melanitta americana
+Long-tailed Duck, Clangula hyemalis
+Bufflehead, Bucephala albeola
+Common Goldeneye, Bucephala clangula
+Barrow's Goldeneye, Bucephala islandica
+Smew, Mergellus albellus
+Hooded Merganser, Lophodytes cucullatus
+Common Merganser, Mergus merganser
+Red-breasted Merganser, Mergus serrator
+Ruddy Duck, Oxyura jamaicensis
+Galliformes
+Mountain Quail, Oreortyx pictus
+California Quail, Callipepla californica
+Gambel's Quail, Callipepla gambelii
+Chukar, Alectoris chukar
+Ring-necked Pheasant, Phasianus colchicus
+Ruffed Grouse, Bonasa umbellus
+Greater Sage-Grouse, Centrocercus urophasianus
+White-tailed Ptarmigan, Lagopus leucura
+Sooty Grouse, Dendragapus fuliginosus
+Sharp-tailed Grouse, Tympanuchus phasianellus
+Wild Turkey, Meleagris gallopavo
+Podicipediformes
+Least Grebe, Tachybaptus dominicus
+Pied-billed Grebe, Podilymbus podiceps
+Horned Grebe, Podiceps auritus
+Red-necked Grebe, Podiceps grisegena
+Eared Grebe, Podiceps nigricollis
+Western Grebe, Aechmophorus occidentalis
+Clark's Grebe, Aechmophorus clarkii
+Columbiformes
+Rock Pigeon, Columba livia
+Band-tailed Pigeon, Patagioenas fasciata
+Oriental Turtle-Dove, Streptopelia orientalis
+Eurasian Collared-Dove, Streptopelia decaocto
+Spotted Dove, Streptopelia chinensis
+Inca Dove, Columbina inca
+Common Ground-Dove, Columbina passerina
+Ruddy Ground-Dove, Columbina talpacoti
+White-winged Dove, Zenaida asiatica
+Mourning Dove, Zenaida macroura
+Cuculiformes
+Common Cuckoo, Cuculus canorus
+Yellow-billed Cuckoo, Coccyzus americanus
+Black-billed Cuckoo, Coccyzus erythropthalmus
+Greater Roadrunner, Geococcyx californianus
+Groove-billed Ani, Crotophaga sulcirostris
+Caprimulgiformes
+Lesser Nighthawk, Chordeiles acutipennis
+Common Nighthawk, Chordeiles minor
+Common Poorwill, Phalaenoptilus nuttallii
+Chuck-will's-widow, Antrostomus carolinensis
+Buff-collared Nightjar, Antrostomus ridgwayi
+Eastern Whip-poor-will, Antrostomus vociferus
+Mexican Whip-poor-will, Antrostomus arizonae
