@@ -1,6 +1,6 @@
 ## BIRDR
 
-- Run with: python Parker_Birder.py
+- Run with: python gui.py
 - Written in python2 instead of python3 because wikipedia module does not yet work on python3
 - Must include birds.txt in same directory
 - Need to have wikipedia python module installed

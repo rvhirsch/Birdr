@@ -43,6 +43,7 @@ def getwikisummary(birdname):
     for paragraph in splits:
         sents = paragraph.split(".")
         full += sents[0] + ". "
+    full.replace(" .", "")
     return full
 
 # searches for bird in list or tells user name is invalid
